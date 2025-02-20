@@ -1,18 +1,31 @@
 # CS-255_7-3_Project_Two_Submission
- This is a project of the semester where I had to pretend to be apart of a team developing a driving application called DrivePass. I would in be incharge of creating graphs for the company as well as mainly communicating with stock holders. Here is what is included in this folder: 
+ This is a project of the semester where I had to pretend to be apart of a team developing a driving application called DrivePass. I would in be incharge of creating graphs for the company as well as mainly communicating with stock holders. 
+
+---
+
+Here is what is included in this folder: 
 
 System Design document. Is graphs and diagrams for drivepass. 
+
 This includes:
+
 2 UML activity Diagram
+
 1 UML sequence Diagram
+
 1 UML Class Diagram
+
 1 UML Case Diagram
 
 A power point that's suppose to be low level for Product owners to see some graphs and be included in the creation process of DriverPass
 
 Speaker notes are to help you give the presentation. It's a more detailed version of the speaker notes on the slides themselves.
 
-#Rubric
+---
+
+**Rubric**
+
+
 Competency
 In this project, you will demonstrate your mastery of the following competencies:
 
