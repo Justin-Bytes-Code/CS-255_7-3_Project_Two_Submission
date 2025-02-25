@@ -69,3 +69,34 @@ Write out your explanation in the speaker notes for each slide. Use the PowerPoi
 Explain how each component of your design meets the client’s needs.
 Use nontechnical language to communicate your ideas.
 Clearly articulate your designs with polished grammar and sufficient detail.
+
+---
+
+**Questions**
+(This is for a homework assignment you do not need to read this)
+
+1. Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+
+In this project I was tasked to work for a small consulting company that designs systems. My client was DriverPass an upcoming driving school who wanted to offer test, training, and appointments for their driving students. It was up to me to show this information in a presentable way for the client to understand it as well as the development team to use this information and design a system. After a long consulting section where I had to gather information from a client I then made multiple charts documenting the experience. 
+
+2. What did you do particularly well?
+
+Something I believe I did well was creating charts in simplistic ways for people who aren't tech-literate. Anyone on the development team or on the product owner side could look at the charts and make sense of most if not all of the information being portrayed.
+
+3. If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+
+The one part I would select would be the presentation. With the rigidness of the assignment I had to use a template for creating the power point. This leads to the powerpoint looking very plain and I believe if I was able to rework it in my own way I could make it look a lot nicer with better graphs as well as more slides to just in general explain more. 
+
+4. How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+
+I was able to know the users needs by having a document of the initional informational gathering step. Going forward I think it's imporant that you have some form of documentation while gatherting information from a client. This allows you to ensure you adding everything the client wants in their program. The user's needs are extreamly imporant in the designing of this program as they are the customers for your company. Just like how if you have an allergy you would hope the chef doesn't use what your allergic too in the meal the same can be said about software development. When developing software it's imporant for you to only add what's needed and requested as adding to many features could lead to Product Owners feeling upset or unheard. 
+
+5. How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+
+Personally when designing software I like to take the top down design. I like to get a bigger picture of everything needed and slowly break it down into more manageable chunks. Doing it this way allows for developers to know excactly what the end goal is and allows them the flexability to adapt and change my blueprint if they would like. 
+For Instance:
+
+I want to create a Feature in a game where Players can store items 
+First we would need to create an inventory for the player 
+Second we need to figure out how the player picks up objects. 
+Third we need to figure out what the item convention will be named. 
